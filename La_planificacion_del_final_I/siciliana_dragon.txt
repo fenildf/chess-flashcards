@@ -1,0 +1,25 @@
+¿De cuándo data la Variante del Dragón de la Siciliana?;Finales del siglo XIX
+Teórico soviético que desarrolló un nuevo método para el ataque blanco contra la variante del Dragón;Vsevolod Rauzer
+Siciliana Dragón: ejemplo donde la irracionalidad del juego se traslada al final;Bouaziz - Geller (Sousse, 1967)
+Siciliana Dragón: ejemplos donde errores en la apertura conducen a finales difíciles para las negras;Loevenfish - Rabinovich (Leningrado, 1939) y Averbaj - Larsen (Portoroz, 1958)
+Siciliana Dragón: ejemplo de final perdido para las negras por error de apertura en posición teórica;Nedeljkovic - Volpert (Belgrado, 1961)
+Siciliana Dragón: ejemplos de ocupación de d5 con caballo y peón débil en e7;Karpov - Miles (Londres, 1982), Tal - Jasin (Bakú, 1961) y Tal - Larsen (Zurich, 1959)
+Siciliana Dragón: ejemplo de ventaja espacial tras Cd5 donde no se retoma con exd5;Short - Sax (Hastings, 1983-84)
+Siciliana Dragón: en el plan negro Da5, Tc8, Ce5-c4, ¿qué torre es mejor llevar a c8?;Tfc8, para disminuir el efecto del golpe Cc3-d5
+Siciliana Dragón: ante el plan negro Da5, Tc8 para Ce5-c4 o Axg4 y Cxe4, ¿qué alternativa tienen las blancas a g2-g4 y h4-h5?;Cb3 expulsando la dama de a5 y e5 combinado con Ah6
+Siciliana Dragón: ¿cuál fue el error de apertura de Rabinovich en Loevenfish - Rabinovich (Leningrado, 1939)?;7..Cg4, debería haberse jugado 7..Ch5 o 7..dxe5, pero mejor haber jugado 6..Cbd7
+Siciliana Dragón: ¿cuál fue el error de apertura de Larsen en Averbaj - Larsen (Portoroz, 1958)?;10..Da5, debería haberse jugado 10..Ce5, en opinión de Geller
+Averbaj - Larsen (Portoroz, 1958);"<img src=""averbaj-larsen.png"" />"
+Bouaziz - Geller (Sousse, 1967);"<img src=""bouziz-geller.png"" />"
+Dzhafarov - Guseinov (Correspondencia, 1975);"<img src=""dzhafarov-guseinov.png"" />"
+Janosevic - Despotovic (Yugoslavia, 1969);"<img src=""janosevic-despotovic.png"" />"
+Karpov - Mestel (Londres, 1982);"<img src=""karpov-mestel.png"" />"
+Karpov - Miles (Londres, 1982);"<img src=""karpov-miles.png"" />"
+Loevenfish - Rabinovich (Leningrado, 1939);"<img src=""loevenfish-rabinovich.png"" />"
+Nedeljkovic - Volpert (Belgrado, 1961);"<img src=""nedeljkovic-volpert.png"" />"
+Peters - Mestel (Hastings, 1980-81);"<img src=""peters-mestel.png"" />"
+Plaskett - Watson (Birmingham, 1983);"<img src=""plaskett-watson.png"" />"
+Short - Kiril Georgiev (Oakham, 1984);"<img src=""short-georgiev.png"" />"
+Short - Sax (Hastings, 1983-84);"<img src=""short-sax.png"" />"
+Tal - Jasin (Bakú, 1961);"<img src=""tal-jasin.png"" />"
+Tal - Larsen (Zurich, 1959);"<img src=""tal-larsen.png"" />"
